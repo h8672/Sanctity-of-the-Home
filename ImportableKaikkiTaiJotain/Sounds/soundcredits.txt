@@ -1,5 +1,8 @@
-Meows.wav by promete @ freesound.org
-glass smash bottle by InspectorJ @ freesound.org
-heartbeat by urupin @ freesound.org
+from freesound.org
+
+Meows.wav by promete
+glass smash bottle by InspectorJ
+door three knocks by sjturia
+heartbeat by urupin
 
 many other sound effects are public domain @ freesound.org
