@@ -3,6 +3,7 @@ from freesound.org
 Meows.wav by promete
 glass smash bottle by InspectorJ
 door three knocks by sjturia
+smoke detector alarm by rayprice
 heartbeat by urupin
 
 many other sound effects are public domain @ freesound.org
