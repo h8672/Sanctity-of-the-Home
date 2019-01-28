@@ -9,3 +9,4 @@ FGJ finnish game jam repository
 - Samulai
 - AnaZuida
 - AnttiV643
+- Mio Taalas
